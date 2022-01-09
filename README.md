@@ -1,2 +1,2 @@
 # BrainFuck
-Brainuck interpreter in c++
+Brainfuck interpreter in c++
